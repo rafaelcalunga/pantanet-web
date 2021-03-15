@@ -1,0 +1,18 @@
+{
+	"editor.tabSize": 2,
+	"editor.insertSpaces": true,
+	"editor.detectIndentation": false,
+	"editor.formatOnSave": true,
+	"editor.codeActionsOnSave": {
+		"source.organizeImports": true
+	},
+	"prettier.trailingComma": "es5",
+	"prettier.tabWidth": 2,
+	"prettier.semi": true,
+	"prettier.singleQuote": true,
+	"prettier.jsxSingleQuote": false,
+	"prettier.printWidth": 80,
+	"staticWebApps.appSubpath": "/",
+	"staticWebApps.apiSubpath": "api",
+	"staticWebApps.outputSubpath": "build"
+}
