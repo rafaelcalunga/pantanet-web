@@ -45,6 +45,7 @@ function AdicionarProduto(props) {
 							type="number"
 							name="preco"
 							value={preco}
+							step="0.01"
 							onChange={(event) => setPreco(event.target.value)}
 							required
 						/>
